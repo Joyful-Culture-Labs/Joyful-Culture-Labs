@@ -1,2 +1,2 @@
 # Joyful-Culture-Labs
-Custom financial research tools
+Building agentic AI solutions and custom tools for modern financial markets.
